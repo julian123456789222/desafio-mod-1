@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Avengers:EndGame",
+    "rating": 4.7,
+    "tags": ["Accion", "Aventura", "Super Heroes"],
+    "cotizacion": "$1.5M, USD"
+  },
+  {
+    "title": "Madagascar",
+    "rating": 4.8,
+    "tags": ["Infantil", "Comedia", "Accion", "Aventura"],
+    "cotizacion": "89MIL, USD"
+  },
+  {
+    "title": "Ted",
+    "rating": 4.5,
+    "tags": ["Comedia", "Buddy", "Fantasia"],
+    "cotizacion": "65MIL, USD"
+  },
+  {
+    "title": "Spider-man",
+    "rating": 4.8,
+    "tags": ["Accion", "Aventura", "Fantasia", "Super Heroes"],
+    "cotizacion": "140MIL, USD"
+  },
+  {
+    "title": "¿Y donde estan las rubias?",
+    "rating": 4.9,
+    "tags": ["Comedia", "Peliculas Policiales"],
+    "cotizacion": "2M, USD"
+  }
+]
